@@ -4,7 +4,8 @@
   "description": "Curso tem como objetivo aprender de verdade a criar uma API completa com Typescript utilizando TDD, Clean Architecture, Design Patterns e SOLID.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:staged": "jest"
   },
   "repository": {
     "type": "git",
@@ -39,9 +40,12 @@
     "git-commit-msg-linter": "^3.1.0",
     "husky": "^6.0.0",
     "jest": "^26.6.3",
+    "jest-cli": "^26.6.3",
     "lint-staged": "^10.5.4",
     "ts-jest": "^26.5.5",
     "typescript": "^4.2.4"
   },
-  "dependencies": {}
+  "dependencies": {
+    "ts-node": "^9.1.1"
+  }
 }
