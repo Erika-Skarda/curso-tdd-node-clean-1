@@ -17,11 +17,11 @@ A intenção deu estudar esse curso é com total objetivo de aprender mais conce
 
 <details><summary><b>Módulo 01: Introdução</b></summary>
 
-- [ x ] 1.1 - Código Fonte
-- [ x ] 1.2 - Apresentação do Projeto 
-- [ x ] 1.3 - Configurando o Git 
-- [ x ] 1.4 - Configurando as dependências 
-- [ x ] 1.5 - Clean Architecture  
+- [x] 1.1 - Código Fonte
+- [x] 1.2 - Apresentação do Projeto 
+- [x] 1.3 - Configurando o Git 
+- [x] 1.4 - Configurando as dependências 
+- [x] 1.5 - Clean Architecture  
 
 </details>
 
