@@ -6,8 +6,10 @@
  * Twitter: <@glaucia_lemos86>
  */
 
+import { HttpResponse, HttpRequest } from '../protocols/htttp';
+
 export class SignUpController {
-  handle(httpRequest: any): any {
+  handle(httpRequest: HttpRequest): HttpResponse {
 
     if (!httpRequest.body.name) {
       return {
