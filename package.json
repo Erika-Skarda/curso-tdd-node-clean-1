@@ -1,16 +1,15 @@
 {
  
-  "name": "curso-tdd-node-clean",
+  "name": "curso-tdd-node-clean-code",
   "version": "1.0.0",
   "description": "Curso tem como objetivo aprender de verdade a criar uma API completa com Typescript utilizando TDD, Clean Architecture, Design Patterns e SOLID.",
-  "main": "index.js",
   "scripts": {
-    "test": "jest --passWithNoTests --watch",
-    "test:staged": "jest --passWithNoTests"
+    "test": "jest --passWithNoTests --runInBand --no-cache",
+    "test:staged": "npm test -- --findRelatedTests"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/glaucia86/curso-tdd-node-clean.git"
+    "url": "https://github.com/glaucia86/curso-tdd-node-clean.git"
   },
   "keywords": [
     "nodejs",
