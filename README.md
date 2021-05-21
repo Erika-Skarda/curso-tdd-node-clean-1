@@ -31,15 +31,15 @@ Layer</b></summary>
 - [x] 1.6 - Criando o SignUpController e validando
 o request
 - [x] 1.7 - Criando erros personalizados
-- [ ] 1.8 - Utilizando Mocks da maneira correta
-- [ ] 1.9 - Testando exceções e integrando com o EmailValidator
-- [ ] 1.10 - Integrando com o AddAccount Usecase
+- [] 1.8 - Utilizando Mocks da maneira correta
+- [] 1.9 - Testando exceções e integrando com o EmailValidator
+- [] 1.10 - Integrando com o AddAccount Usecase
 
 </details>
 
 <details><summary><b>Módulo 03: Jest</b></summary>
 
-- [ ] 1.11 -  
+- [] 1.11 -  
 
 </details>
 
